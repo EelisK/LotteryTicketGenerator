@@ -1,0 +1,6 @@
+<resources>
+    <!-- &#174; on trademark -merkki-->
+    <string name="app_name">Lottery ticket generator</string><!-- &#174; is trademark-->
+    <string name="lottorivi">Generate a lottery ticket!</string>
+    <string name="btntxt">New lottery ticket</string>
+</resources>

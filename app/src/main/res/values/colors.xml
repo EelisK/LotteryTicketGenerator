@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/purple</color>
+    <color name="colorPrimaryDark">@color/moneyBlueDark</color>
+    <color name="background">@color/purple</color>
+    <color name="textColor">@color/highlightGreen</color>
+
+    <color name="shadowColor">#000000</color>
+    <color name="moneyBlueDark">#185182</color>
+    <color name="moneyBlueLight">#0F68D7</color>
+    <color name="purple">#6568AC</color>
+    <color name="highlightGreen">#B9D336</color>
+
+</resources>
